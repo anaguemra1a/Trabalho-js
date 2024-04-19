@@ -5,4 +5,10 @@ function setup() {
 function draw() {
   background(220);
 }
-p
+function setup() {
+  createCanvas(600, 600);
+}
+
+function draw() {
+  background("white");
+}
